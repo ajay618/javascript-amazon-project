@@ -19,7 +19,7 @@ if (AllCartdata===null){
   <div data-testid="empty-cart-message">
     Your cart is empty.
   </div>
-  <a class="button-primary view-products-link" href="/javascript-amazon-project/amazon.html" data-testid="view-products-link">
+  <a class="button-primary view-products-link" href="amazon.html" data-testid="view-products-link">
     View products
   </a>
 </div>`;
@@ -428,7 +428,7 @@ function DeleteQuantity(deleteCart){
       <div data-testid="empty-cart-message">
         Your cart is empty.
       </div>
-      <a class="button-primary view-products-link" href="/javascript-amazon-project/amazon.html" data-testid="view-products-link">
+      <a class="button-primary view-products-link" href="amazon.html" data-testid="view-products-link">
         View products
       </a>
     </div>`;
